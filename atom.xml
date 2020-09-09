@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://strangezuo.github.io/</id>
     <title>还没想好</title>
-    <updated>2020-09-09T11:42:15.473Z</updated>
+    <updated>2020-09-09T11:43:55.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://strangezuo.github.io/"/>
     <link rel="self" href="https://strangezuo.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 还没想好</rights>
     <entry>
         <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://strangezuo.github.io/post/post\aboutme/</id>
-        <link href="https://strangezuo.github.io/post/post\aboutme/">
+        <id>https://strangezuo.github.io/post/aboutme/</id>
+        <link href="https://strangezuo.github.io/post/aboutme/">
         </link>
         <updated>2020-09-09T05:15:42.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
